@@ -161,6 +161,7 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "DatabaseForm";
             this.Text = "Facebook User Data Form";
+            this.Load += new System.EventHandler(this.DatabaseForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewUsers)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewOther)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewFreindInfo)).EndInit();

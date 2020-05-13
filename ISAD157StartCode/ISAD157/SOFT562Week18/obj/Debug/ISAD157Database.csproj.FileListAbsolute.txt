@@ -10,3 +10,15 @@ D:\ISAD\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\ISAD157Database.csproj.
 D:\ISAD\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\ISAD157Database.csproj.CopyComplete
 D:\ISAD\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\SOFT562Week18.exe
 D:\ISAD\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\SOFT562Week18.pdb
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\bin\Debug\SOFT562Week18.exe.config
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\bin\Debug\SOFT562Week18.exe
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\bin\Debug\SOFT562Week18.pdb
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\bin\Debug\Renci.SshNet.dll
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\bin\Debug\Renci.SshNet.xml
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\ISAD157Database.csprojAssemblyReference.cache
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\SOFT562Week18.DatabaseForm.resources
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\SOFT562Week18.Properties.Resources.resources
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\ISAD157Database.csproj.GenerateResource.cache
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\ISAD157Database.csproj.CopyComplete
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\SOFT562Week18.exe
+C:\src\ISAD157Coursework\ISAD157StartCode\ISAD157\SOFT562Week18\obj\Debug\SOFT562Week18.pdb

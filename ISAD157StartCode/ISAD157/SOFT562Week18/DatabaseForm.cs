@@ -238,6 +238,11 @@ namespace SOFT562Week18
                 }//End of connection to MySql Server Database
             }
         }
+
+        private void DatabaseForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 
